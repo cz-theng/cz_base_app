@@ -30,6 +30,9 @@
 						<string>BootLoader/BootLoader.m</string>
 						<string>BootLoader/BootLoader.h</string>
 						<string>ThirdPart</string>
+						<string>Utils</string>
+						<string>Scenes</string>
+						<string>Services</string>
 					</array>
 				</dict>
 				<key>Swift</key>
@@ -42,6 +45,21 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
+		<key>Utils</key>
+		<dict>
+			<key>Path</key>
+			<string>Utils</string>
+		</dict>
+		<key>Scenes</key>
+		<dict>
+			<key>Path</key>
+			<string>Scenes</string>
+		</dict>
+		<key>Services</key>
+		<dict>
+			<key>Path</key>
+			<string>Services</string>
+		</dict>
 		<key>ThirdPart</key>
 		<dict>
 			<key>Path</key>
