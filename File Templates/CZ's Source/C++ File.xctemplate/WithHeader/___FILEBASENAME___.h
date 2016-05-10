@@ -5,8 +5,17 @@
 **___COPYRIGHT___
 \*******************************************************************************/
 
+//
+//  ___FILENAME___
+//  ___PROJECTNAME___
+//
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//___COPYRIGHT___
+//
+
 #ifndef ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_
 #define ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_
 
+#include <stdio.h>
 
 #endif /* ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_ */

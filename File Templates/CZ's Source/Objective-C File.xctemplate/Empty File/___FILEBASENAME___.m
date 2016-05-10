@@ -1,9 +1,8 @@
-//
-//  ___FILENAME___
-//  ___PROJECTNAME___
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
-//
+/*******************************************************************************\
+** ___PROJECTNAME___:___FILENAME___
+** Created by CZ(cz.devnet@gmail.com) on ___DATE___
+**
+**___COPYRIGHT___
+\*******************************************************************************/
 
 #import <Foundation/Foundation.h>

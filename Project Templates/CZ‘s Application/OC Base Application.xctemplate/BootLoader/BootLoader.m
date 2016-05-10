@@ -1,8 +1,8 @@
 /*******************************************************************************\
-** ___PROJECTNAME___:___FILENAME___
-** Created by CZ(cz.devnet@gmail.com) on ___DATE___
+** tt:BootLoader.m
+** Created by CZ(cz.devnet@gmail.com) on 5/11/16
 **
-**___COPYRIGHT___
+**  Copyright © 2016 projm. All rights reserved.
 \*******************************************************************************/
 
-#include "___FILEBASENAME___.h"
+#import <Foundation/Foundation.h>

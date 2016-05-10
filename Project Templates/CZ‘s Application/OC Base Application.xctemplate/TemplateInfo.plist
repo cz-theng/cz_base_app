@@ -3,33 +3,64 @@
 <plist version="1.0">
 <dict>
 	<key>Kind</key>
-		<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
+	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Identifier</key>
-		<string>club.projm.cz.baseapp.oc</string>
+	<string>club.projm.cz.baseapp.oc</string>
 	<key>Ancestors</key>
-		<array>
-			<string>com.apple.dt.unit.storyboardApplication</string>
-			<string>com.apple.dt.unit.coreDataCocoaTouchApplication</string>
-		</array>
+	<array>
+		<string>com.apple.dt.unit.cocoaTouchApplicationBase</string>
+	</array>
 	<key>Concrete</key>
-		<true/>
+	<true/>
 	<key>Description</key>
-		<string>This template provides a starting point for an application for CZ with a base structure which use Objective-C. Such as &quot;Scenes&quot;,&quot;Services&quot;,etc.</string>
+	<string>This template provides a starting point for an application for CZ with a base structure which use Objective-C. Such as &quot;Scenes&quot;,&quot;Services&quot;,etc.</string>
 	<key>SortOrder</key>
-		<integer>1</integer>
+	<integer>1</integer>
 	<key>Options</key>
-		<array>
-
-		</array>
-	<key>Definitions</key>
+	<array>
 		<dict>
-			<key>Base.lproj/Main.storyboard</key>
+			<key>Identifier</key>
+			<string>languageChoice</string>
+			<key>Units</key>
 			<dict>
-				<key>Path</key>
-				<string>Main.storyboard</string>
-				<key>SortOrder</key>
-				<integer>99</integer>
+				<key>Objective-C</key>
+				<dict>
+					<key>Nodes</key>
+					<array>
+						<string>BootLoader/BootLoader.m</string>
+						<string>BootLoader/BootLoader.h</string>
+						<string>ThirdPart</string>
+					</array>
+				</dict>
+				<key>Swift</key>
+				<dict>
+					<key>Nodes</key>
+					<array/>
+				</dict>
 			</dict>
 		</dict>
+	</array>
+	<key>Definitions</key>
+	<dict>
+		<key>ThirdPart</key>
+		<dict>
+			<key>Path</key>
+			<string>ThirdPart</string>
+		</dict>
+		<key>BootLoader/BootLoader.h</key>
+		<dict>
+			<key>Path</key>
+			<string>BootLoader/BootLoader.h</string>
+			<key>Group</key>
+			<string>BootLoader</string>
+		</dict>
+		<key>BootLoader/BootLoader.m</key>
+		<dict>
+			<key>Path</key>
+			<string>BootLoader/BootLoader.m</string>
+			<key>Group</key>
+			<string>BootLoader</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

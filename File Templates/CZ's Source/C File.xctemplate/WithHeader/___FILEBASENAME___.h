@@ -1,14 +1,14 @@
-//
-//  ___FILENAME___
-//  ___PROJECTNAME___
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
-//
+/*******************************************************************************\
+** ___PROJECTNAME___:___FILENAME___
+** Created by CZ(cz.devnet@gmail.com) on ___DATE___
+**
+**___COPYRIGHT___
+\*******************************************************************************/
 
-#ifndef ___FILEBASENAMEASIDENTIFIER____h
-#define ___FILEBASENAMEASIDENTIFIER____h
+
+#ifndef ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_
+#define ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_
 
 #include <stdio.h>
 
-#endif /* ___FILEBASENAMEASIDENTIFIER____h */
+#endif /* ___PROJECTNAME_______FILEBASENAMEASIDENTIFIER____h_ */
