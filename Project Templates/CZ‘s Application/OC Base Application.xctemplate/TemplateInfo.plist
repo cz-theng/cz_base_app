@@ -29,40 +29,43 @@
 					<array>
 						<string>BootLoader/BootLoader.m</string>
 						<string>BootLoader/BootLoader.h</string>
-						<string>ThirdPart</string>
-						<string>Utils</string>
-						<string>Scenes</string>
-						<string>Services</string>
+						<string>ThirdPart/readme.h</string>
+						<string>Utils/readme.h</string>
+						<string>Scenes/readme.h</string>
+						<string>Services/readme.h</string>
 					</array>
-				</dict>
-				<key>Swift</key>
-				<dict>
-					<key>Nodes</key>
-					<array/>
 				</dict>
 			</dict>
 		</dict>
 	</array>
 	<key>Definitions</key>
 	<dict>
-		<key>Utils</key>
+		<key>Utils/readme.h</key>
 		<dict>
 			<key>Path</key>
+			<string>Utils/readme.h</string>
+			<key>Group</key>
 			<string>Utils</string>
 		</dict>
-		<key>Scenes</key>
+		<key>Scenes/readme.h</key>
 		<dict>
 			<key>Path</key>
+			<string>Scenes/readme.h</string>
+			<key>Group</key>
 			<string>Scenes</string>
 		</dict>
-		<key>Services</key>
+		<key>Services/readme.h</key>
 		<dict>
 			<key>Path</key>
+			<string>Services/readme.h</string>
+			<key>Group</key>
 			<string>Services</string>
 		</dict>
-		<key>ThirdPart</key>
+		<key>ThirdPart/readme.h</key>
 		<dict>
 			<key>Path</key>
+			<string>ThirdPart/readme.h</string>
+			<key>Group</key>
 			<string>ThirdPart</string>
 		</dict>
 		<key>BootLoader/BootLoader.h</key>
