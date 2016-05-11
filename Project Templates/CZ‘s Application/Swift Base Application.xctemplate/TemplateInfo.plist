@@ -23,11 +23,6 @@
 			<string>languageChoice</string>
 			<key>Units</key>
 			<dict>
-				<key>Objective-C</key>
-				<dict>
-					<key>Nodes</key>
-					<array/>
-				</dict>
 				<key>Swift</key>
 				<dict>
 					<key>Nodes</key>
